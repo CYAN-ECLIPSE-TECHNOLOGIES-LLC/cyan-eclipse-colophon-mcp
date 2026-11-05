@@ -23,7 +23,7 @@
       "Connector fetch — P1/D3-gated, absent at P0.",
       "Watch — D4-gated, absent at P0.",
       "commerce_verify_offer against live commerce — P2 surface; simulator-proven at P0 only.",
-      "The owner's real book as dogfood — deferred by the owner; P0 fixtures are synthetic."
+      "The owner's real book in first-party use — deferred by the owner; P0 fixtures are synthetic."
     ],
     "scorecard_ref": "test-bench/results/eclipse-colophon-mcp-2026-10-25-2.json",
     "status": "CERTIFIED(local/simulator) — Eclipse Bazaar Test Bench 2026-10-25, run 2 (standing): 19 pass of 19 checks, synthetic fixtures only (5 build-fixture titles + 1 bench-own title; all 8 divergence classes exercised). Independent Verity bench with own fixtures; run 1 card retained append-only."
